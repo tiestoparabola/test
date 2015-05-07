@@ -5,6 +5,9 @@
 
 using namespace std;
 
+/*
+Simple code demonstrating c++ exception usage
+*/
 class Object 
 {
     friend ostream & operator<<(ostream &os, const Object &obj);
