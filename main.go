@@ -1,5 +1,8 @@
 package main
 
+/*
+Simple programe demonstarting go routines
+*/
 import (
     "fmt"
     "time"
