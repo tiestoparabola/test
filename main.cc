@@ -7,6 +7,7 @@ using namespace std;
 
 /*
 Simple code demonstrating c++ exception usage
+Very interesting code, I like it.
 */
 class Object 
 {
